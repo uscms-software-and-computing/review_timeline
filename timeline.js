@@ -72,4 +72,4 @@ events.forEach(function (event) {
 
 
 
-document.querySelector('#events').innerHTML = html;
+document.getElementById('events').innerHTML = html;
