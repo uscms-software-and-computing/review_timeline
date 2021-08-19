@@ -2,6 +2,14 @@ var months = [ "January", "February", "March", "April", "May", "June", "July", "
 
 var events = [
  {
+   "Task Name": "Common software projects and WLCG software",
+   "Planned Finish Date": "11/1/21"
+ },
+ {
+   "Task Name": "10% Network Challenge",
+   "Planned Finish Date": "12/1/21"
+ },
+ {
    "Task Name": "WLCG 2022 pledge deployed",
    "Planned Finish Date": "3/31/22"
  },
@@ -14,8 +22,20 @@ var events = [
    "Planned Finish Date": "6/30/22"
  },
  {
+   "Task Name": "HL-LHC Computing CDRs for ATLAS and CMS",
+   "Planned Finish Date": "10/3/22"
+ },
+ {
    "Task Name": "WLCG 2023 pledge deployed",
    "Planned Finish Date": "3/31/23"
+ },
+ {
+   "Task Name": "HSF, Common Software Projects, WLCG facilities",
+   "Planned Finish Date": "10/2/23"
+ },
+ {
+   "Task Name": "30% Network Challenge",
+   "Planned Finish Date": "12/1/23"
  },
  {
    "Task Name": "WLCG 2024 pledge deployed",
@@ -26,52 +46,32 @@ var events = [
    "Planned Finish Date": "4/1/24"
  },
  {
+   "Task Name": "Delivery of the HL-LHC ATLAS and CMS Computing TDR",
+   "Planned Finish Date": "4/1/24"
+ },
+ {
    "Task Name": "CMS Computing TDR Review",
    "Planned Finish Date": "9/30/24"
+ },
+ {
+   "Task Name": "Review of the HL-LHC ATLAS and CMS Computing TDR",
+   "Planned Finish Date": "10/1/24"
  },
  {
    "Task Name": "WLCG 2025 pledge deployed",
    "Planned Finish Date": "3/31/25"
  },
  {
-   "Task Name": "WLCG 2026 pledge deployed",
-   "Planned Finish Date": "3/31/26"
- },
- {
-   "Task Name": "10% Network Challenge",
-   "Planned Finish Date": "12/1/21"
- },
- {
-   "Task Name": "30% Network Challenge",
-   "Planned Finish Date": "12/1/23"
- },
- {
    "Task Name": "60% Network Challenge",
    "Planned Finish Date": "12/1/25"
  },
  {
+   "Task Name": "WLCG 2026 pledge deployed",
+   "Planned Finish Date": "3/31/26"
+ },
+ {
    "Task Name": "100% Network Challenge",
    "Planned Finish Date": "12/1/27"
- },
- {
-   "Task Name": "Common software projects and WLCG software",
-   "Planned Finish Date": "11/1/21"
- },
- {
-   "Task Name": "HL-LHC Computing CDRs for ATLAS and CMS",
-   "Planned Finish Date": "10/3/22"
- },
- {
-   "Task Name": "HSF, Common Software Projects, WLCG facilities",
-   "Planned Finish Date": "10/2/23"
- },
- {
-   "Task Name": "Delivery of the HL-LHC ATLAS and CMS Computing TDR",
-   "Planned Finish Date": "4/1/24"
- },
- {
-   "Task Name": "Review of the HL-LHC ATLAS and CMS Computing TDR",
-   "Planned Finish Date": "10/1/24"
  }
 ];
 
