@@ -2,11 +2,11 @@ var months = [ "January", "February", "March", "April", "May", "June", "July", "
 
 var events = [
  {
-   "Task Name": "Common software projects and WLCG software",
+   "Task Name": "LHCC review: Common software projects and WLCG software",
    "Planned Finish Date": "11/1/21"
  },
  {
-   "Task Name": "10% Network Challenge",
+   "Task Name": "WLCG 10% Network Challenge",
    "Planned Finish Date": "12/1/21"
  },
  {
@@ -22,47 +22,55 @@ var events = [
    "Planned Finish Date": "6/30/22"
  },
  {
-   "Task Name": "HL-LHC Computing CDRs for ATLAS and CMS",
-   "Planned Finish Date": "10/3/22"
+  "Task Name": "IRIS-HEP Analysis Grand Challenge",
+  "Planned Finish Date": "3/1/23"
  },
  {
    "Task Name": "WLCG 2023 pledge deployed",
    "Planned Finish Date": "3/31/23"
  },
  {
-   "Task Name": "HSF, Common Software Projects, WLCG facilities",
+  "Task Name": "Conclusion of IRIS-HEP Phase 1",
+  "Planned Finish Date": "9/1/23"
+ },
+ {
+  "Task Name": "Conclusion of HEP-CCE Phase 1: Project Recommendations",
+  "Planned Finish Date": "9/30/23"
+ },
+ {
+   "Task Name": "LHCC review: HSF, Common Software Projects, WLCG facilities",
    "Planned Finish Date": "10/2/23"
  },
  {
-   "Task Name": "30% Network Challenge",
+   "Task Name": "WLCG (and IRIS-HEP) Data Grand Challenge: 30%",
    "Planned Finish Date": "12/1/23"
+ },
+ {
+  "Task Name": "CMS Computing CDR Submitted",
+  "Planned Finish Date": "12/31/23"
  },
  {
    "Task Name": "WLCG 2024 pledge deployed",
    "Planned Finish Date": "4/1/24"
  },
  {
-   "Task Name": "CMS Computing TDR Submitted",
-   "Planned Finish Date": "4/1/24"
+  "Task Name": "WLCG 2025 pledge deployed",
+  "Planned Finish Date": "3/31/25"
  },
  {
-   "Task Name": "Delivery of the HL-LHC ATLAS and CMS Computing TDR",
-   "Planned Finish Date": "4/1/24"
+  "Task Name": "CMS Review of CMS HL-LHC Computing TDR",
+  "Planned Finish Date": "3/31/25"
  },
  {
-   "Task Name": "CMS Computing TDR Review",
-   "Planned Finish Date": "9/30/24"
+   "Task Name": "Delivery of the HL-LHC ATLAS and CMS Computing TDRs to LHCC",
+   "Planned Finish Date": "4/1/25"
  },
  {
-   "Task Name": "Review of the HL-LHC ATLAS and CMS Computing TDR",
-   "Planned Finish Date": "10/1/24"
+   "Task Name": "LHCC Review of the HL-LHC ATLAS and CMS Computing TDRs",
+   "Planned Finish Date": "10/1/25"
  },
  {
-   "Task Name": "WLCG 2025 pledge deployed",
-   "Planned Finish Date": "3/31/25"
- },
- {
-   "Task Name": "60% Network Challenge",
+   "Task Name": "WLCG (and IRIS-HEP) Data Grand Challenge: 60%",
    "Planned Finish Date": "12/1/25"
  },
  {
@@ -70,10 +78,11 @@ var events = [
    "Planned Finish Date": "3/31/26"
  },
  {
-   "Task Name": "100% Network Challenge",
+   "Task Name": "WLCG (and IRIS-HEP) Data Grand Challenge: 100%",
    "Planned Finish Date": "12/1/27"
  }
 ];
+
 
 var html = '';
 
